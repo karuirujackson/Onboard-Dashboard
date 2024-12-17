@@ -16,7 +16,7 @@ export const LandingPage = () => {
         <Frame_4 />
         <Frame_5 />
         <Frame_6 />
-        <JoinTrello />
+        {/* <JoinTrello /> */}
     </div>
   )
 };
