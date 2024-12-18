@@ -3,9 +3,9 @@ import { LandingPage } from "./components/LandingPage/LandingPage";
 
 export default function Home() {
   return (
-    <div className="">
-      <Hero />
-      <LandingPage />
-    </div>
-  );
-}
+        <div className="">
+            <Hero />
+            <LandingPage />
+        </div>
+    );
+};

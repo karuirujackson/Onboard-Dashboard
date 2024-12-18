@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Frame_8 = () => {
+const GithubRepo = () => {
   return (
         <div className='flex flex-col gap-8'>
             <span className='text-xl leading-8 font-semibold'>1. Join Github Repository</span>
@@ -14,4 +14,4 @@ const Frame_8 = () => {
     )
 }
 
-export default Frame_8;
+export default GithubRepo;

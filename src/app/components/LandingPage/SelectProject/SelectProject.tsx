@@ -4,7 +4,7 @@ import Image from "next/image";
 import { SetStateAction, useState } from "react";
 import DropDownIcon from '../../../../../public/assets/DropDown.svg';
 
-const Frame_7 = () => {
+const SelectProject = () => {
     const [isOpen, setIsOpen ] = useState(false);
 
     const [selectOption, setSelectOption] = useState('Byte Tasks');
@@ -41,4 +41,4 @@ const Frame_7 = () => {
     );
 };
 
-export default Frame_7;
+export default SelectProject;
